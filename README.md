@@ -55,4 +55,5 @@ Clear metrics to monitor and evaluate performance.
 Conclusion:
 This project delivers a detailed analysis of BMW vehicle sales, equipping stakeholders with insight-driven recommendations to enhance their strategies.
 
-
+Author
+Younes Boumouh – Data Analyst
